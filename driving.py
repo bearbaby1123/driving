@@ -11,3 +11,5 @@ elif country == 'USA':
 		print('You can take the driving test.')
 	else:
 		print('You cannot drive.')
+else:
+	print('The database is restricted to Taiwan and USA')
